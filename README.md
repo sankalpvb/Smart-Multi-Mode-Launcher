@@ -83,14 +83,14 @@ pip install PySide6
 ### 3️⃣ Run manually
 
 ```bash
-python final2.py
+python Script.py
 ```
 
 ### 4️⃣ (Optional) Build into an EXE
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --noconsole --name startup_dashboard final2.py
+pyinstaller --onefile --noconsole --name startup_dashboard Script.py
 ```
 
 After build, the `.exe` will be located in the `dist` folder.
@@ -105,7 +105,7 @@ To start automatically at login:
    ```cmd
    @echo off
    timeout /t 30 /nobreak >nul
-   start "" "C:\Users\Sankalp\AppData\Local\Programs\Python\Python313\pythonw.exe" "C:\Users\Sankalp\startup_dashboard\final2.py"
+   start "" "C:\Users\Sankalp\AppData\Local\Programs\Python\Python313\pythonw.exe" "C:\Users\Sankalp\startup_dashboard\Script.py"
    ```
 3. Save → Done ✅
    It will run automatically at every login with a 30-second delay.
