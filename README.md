@@ -72,7 +72,7 @@ Whether you’re studying, doing lab pentesting, working on TryHackMe, or just c
 ```bash
 git clone https://github.com/sankalpvb/startup-dashboard.git
 cd startup-dashboard
-
+```
 
 ### 2️⃣ Install dependencies
 
