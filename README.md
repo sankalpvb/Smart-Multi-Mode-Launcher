@@ -168,6 +168,8 @@ MIT License © 2025 [Sankalp Bhosale](https://github.com/sankalpvb)
 4. Copy and paste everything above into it.
 5. Push it to your GitHub repository.
 
+
+---
 ---
 
 Would you like me to design a **simple logo/icon (PNG + ICO)** for your GitHub and EXE build (like a tech-themed “S” or a dashboard symbol)? I can generate that next.
