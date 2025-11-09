@@ -157,13 +157,3 @@ MIT License © 2025 [Sankalp Bhosale](https://github.com/sankalpvb)
 
 > *“Automation isn’t about being lazy — it’s about freeing your focus for what truly matters.”*
 
-```
-### 🔧 Instructions for you
-1. Create a folder `assets/` in your project.
-2. Save your screenshot as `assets/dashboard_screenshot.png`.
-3. Create a new file in your project folder named `README.md`.
-4. Copy and paste everything above into it.
-5. Push it to your GitHub repository.
-
-Would you like me to design a **simple logo/icon (PNG + ICO)** for your GitHub and EXE build (like a tech-themed “S” or a dashboard symbol)? I can generate that next.
-```
