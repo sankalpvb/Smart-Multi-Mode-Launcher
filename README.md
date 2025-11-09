@@ -1,6 +1,3 @@
-
-
-````markdown
 # 🚀 Startup Dashboard — Smart Multi-Mode Launcher
 
 A modern **startup automation dashboard** built in **Python (PySide6)** that lets you instantly switch between customized workflows — like study, lab practice, exploitation, or chill modes — each launching specific apps, URLs, or tools automatically.
@@ -75,7 +72,7 @@ Whether you’re studying, doing lab pentesting, working on TryHackMe, or just c
 ```bash
 git clone https://github.com/sankalpvb/startup-dashboard.git
 cd startup-dashboard
-````
+
 
 ### 2️⃣ Install dependencies
 
